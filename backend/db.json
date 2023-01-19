@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "description": "Soft drinks coffees teas beers and ales",
+      "name": "Beverages",
+      "imageUrl": "https://cdn.britannica.com/39/7139-050-A88818BB/Himalayan-chocolate-point.jpg"
+    },
+    {
+      "id": 3,
+      "description": "Desserts candies and sweet breads",
+      "name": "Confections",
+      "imageUrl": "https://cdn.theatlantic.com/thumbor/viW9N1IQLbCrJ0HMtPRvXPXShkU=/0x131:2555x1568/976x549/media/img/mt/2017/06/shutterstock_319985324/original.jpg"
+    },
+    {
+      "id": 4,
+      "description": "Cheeses",
+      "name": "Dairy Products",
+      "imageUrl": "https://cdn.theatlantic.com/thumbor/viW9N1IQLbCrJ0HMtPRvXPXShkU=/0x131:2555x1568/976x549/media/img/mt/2017/06/shutterstock_319985324/original.jpg"
+    },
+    {
+      "id": 5,
+      "description": "Breads crackers pasta and cereal",
+      "name": "Grains/Cereals",
+      "imageUrl": "https://cdn.britannica.com/39/7139-050-A88818BB/Himalayan-chocolate-point.jpg"
+    },
+    {
+      "id": 6,
+      "description": "Prepared meats",
+      "name": "Meat/Poultry",
+      "imageUrl": "https://cdn.theatlantic.com/thumbor/viW9N1IQLbCrJ0HMtPRvXPXShkU=/0x131:2555x1568/976x549/media/img/mt/2017/06/shutterstock_319985324/original.jpg"
+    },
+    {
+      "id": 7,
+      "description": "Dried fruit and bean curd",
+      "name": "Produce",
+      "imageUrl": "https://cdn.britannica.com/39/7139-050-A88818BB/Himalayan-chocolate-point.jpg"
+    },
+    {
+      "id": 8,
+      "description": "Seaweed and fish",
+      "name": "Seafood",
+      "imageUrl": "https://cdn.theatlantic.com/thumbor/viW9N1IQLbCrJ0HMtPRvXPXShkU=/0x131:2555x1568/976x549/media/img/mt/2017/06/shutterstock_319985324/original.jpg"
+    },
+    {
+      "name": "Ulvious",
+      "description": "MIYAOUS",
+      "imageUrl": "https://i.pinimg.com/originals/0a/bb/e5/0abbe546e479edc1eb62f5a8ccd66328.jpg",
+      "id": 9
+    }
+  ]
+}

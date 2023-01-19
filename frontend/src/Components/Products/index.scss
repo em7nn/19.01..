@@ -1,0 +1,11 @@
+.yepa{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .miau{
+        display: flex;
+        text-align: center;
+        width: 300px;
+        border: 2px solid black;
+    }
+}
